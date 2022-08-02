@@ -26,7 +26,7 @@
 
   [README Generator Download Link](https://github.com/Milfred08/challenge-9-professional-readme-generator)
 
-  [Tutorial on how to use app](https://drive.google.com/file/d/12qhwkPq_O4u0J3L2TQOTSX4eRwKC1nie/view?usp=sharing)
+  [Tutorial on how to use app](....)
   
   README Screenshot No License
   ![README Screenshot No License](utils/images/no-license-screenshot.png)
@@ -47,8 +47,7 @@
   ## [Contributing](#table-of-contents)
   
   
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
-    
+ Visit and enjoy
 
   ## [Tests](#table-of-contents)
 
