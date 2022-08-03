@@ -1,23 +1,14 @@
 {
-  "name": "challenge-9-professional-readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "* [Description](#description)\r   * [Installation](#installation)\r   * [Usage](#usage)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Milfred08/challenge-9-professional-readme-generator.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Milfred08/challenge-9-professional-readme-generator/issues"
-  },
-  "homepage": "https://github.com/Milfred08/challenge-9-professional-readme-generator#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "inquirer": "^6.3.1"
   }
 }

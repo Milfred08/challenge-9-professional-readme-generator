@@ -1,54 +1,32 @@
+# README Generator 
+  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-  # Professional-README-Generator
-  
-   
+  ## Description 
+  This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
 
-  ## Table-of-Contents
-
-  * [Description](#description)
+  ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-   
+  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Questions](#questions)
   
-  ## [Description](#table-of-contents)
+  ## Installation 
+  The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. 
 
-  My project is a README generator. The project will help a user generate a README without having to worry about applying proper mark down syntax.
+  ## Usage 
+  Use inquirer from your command line to answer questions about your project.
+  <img src="coming soon"><br>
 
-  One problem with most projects is that the README is overlooked. This could be because the developer is lazy and doesn't want to include it or they haven't mastered down the proper syntax to creating a README. Also they possibly don't have a good idea of what to include with the README.
+  ## License 
+  This project is license under MIT
 
-  This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses. It will take a couple minutes and provide the developer with the ability to make their project complete and more professional, increasing the likely hood that someone will want to use their app over similar apps without a README.
+  ## Contributing 
+  Contributors should read the installation section. 
 
-  ## [Installation](#table-of-contents)
+  ## Tests
+  npm test
 
-  Click the repository link below. Download the zip file and copy it to a directory of your choice or clone to a directory of your choice using your terminal.  Open the file in VS Code or whatever editor you work with. Open the terminal in VS Code and make sure you’re in the root directory ‘challenge-9-professional-README-generator. You’ll now be ready to run the app!
-
-  [README Generator Download Link](https://github.com/Milfred08/challenge-9-professional-readme-generator)
-
-  [Tutorial on how to use app](....)
-  
-  README Screenshot No License
-  ![README Screenshot No License](utils/images/no-license-screenshot.png)
-  
-  README Screenshot with License
-  ![README Screenshot with License](utils/images/with-license-screenshot.png)
-
-  ## [Usage](#table-of-contents)
-
-  After installation is complete, run the following code: ‘node inex.js’ in the terminal. Answer the prompts and after completion, you should see a console log showing your answers to your prompts, a message that says ‘File created!’, and you should see your file under the ‘dist’ folder called ‘generatedREADME’. It’s generated in mark down syntax so you can copy and paste that code into your project!
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
-  
-   
-
-  ## [Contributing](#table-of-contents)
-  
-  
- Visit and enjoy
-
-  ## [Tests](#table-of-contents)
-
-  To test this app, open up the file in VS Code. Open the terminal, change directory into the root folder ‘challenge-9-professional-README-generator’, and run ‘node index.js’. Answer the prompts and view the preview of the ‘generated-README.md’ file in the ‘dist’ folder.
+  ## Questions
+  If you have any questions about this projects, please contact me directly.
